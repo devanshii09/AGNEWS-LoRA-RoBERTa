@@ -148,9 +148,3 @@ We split the training set into 90% training and 10% validation.
 ## Acknowledgements
 
 We thank **Professor Chinmay Hegde** and the teaching staff of **Deep Learning (ECE-GY 9253)** at NYU for their guidance and support throughout the project.
-
----
-
-## License
-
-This project is open-source under the MIT License.
